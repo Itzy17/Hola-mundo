@@ -3,6 +3,7 @@ Este es el primer ejemplo de github del G1
 <<<<<<< HEAD
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Manita
 
 † † † † † † † † † † † † † † † † † † † †
@@ -33,6 +34,8 @@ ________...............8888888...
 =======
 >>>>>>> parent of 1b8c0a6... Pajaritos
 =======
+=======
+>>>>>>> parent of ec738ca... Listo parcero, tome su mano.
                   _  _
                  ( \/ )
           .---.   \  /   .-"-. 
@@ -43,4 +46,7 @@ ________...............8888888...
   =======""===""========""===""=======
            |||            |||
             |              |
+<<<<<<< HEAD
+>>>>>>> parent of ec738ca... Listo parcero, tome su mano.
+=======
 >>>>>>> parent of ec738ca... Listo parcero, tome su mano.
